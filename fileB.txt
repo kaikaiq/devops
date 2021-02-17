@@ -1,1 +1,1 @@
-"This is FileB feature ver2" 
+"This is FileB feature ver2-merge" 
